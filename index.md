@@ -70,7 +70,7 @@
 * We fine-tuned an advanced model to locate propaganda fractions and classified them in news articles, using data augmentation and semantic fusion technique.
 
 # Photography
-[Photos](https://github.com/lishiqianhugh/lishiqianhugh.github.io/blob/gh-pages/photography.md)
+In my spare time, I'd like to explore the beauty around me and record them using camera. [Here](https://lishiqianhugh.github.io/Photography/) are some photos shot on the road and in my life.
 
 # Contact Me
 
