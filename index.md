@@ -31,7 +31,7 @@
        <p><b>On the Learning Mechanisms in Physical Reasoning</b></p>
        <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>NeurIPS, 2022</b></small></p>
-       <a href=https://lishiqianhugh.github.io/LfID_Page>Web</a>
+       <a href="https://lishiqianhugh.github.io/LfID_Page">Web</a>
     </td>
     <td width="25%">
       <img src="figures/LfID.jpg" width="100%">
@@ -46,6 +46,7 @@
        <p><small><b>Shiqian Li</b>, W.Li, S.Wen, K.Shi, Y.Yang, P.Zhou, T.Huang </small></p>
        <p><small><b>IEEE Transactions on Network Science and Engineering (TNSE), 2021</b></small></p>
        <a href="https://ieeexplore.ieee.org/abstract/document/9442348">Paper</a>
+     <a href="https://github.com/lishiqianhugh/Auto-FERNet">Code</a>
     </td>
     <td width="25%">
       <img src="figures/Auto-FERnet.png" width="100%">
