@@ -48,7 +48,7 @@
        <a href="https://ieeexplore.ieee.org/abstract/document/9442348">Paper</a>
     </td>
     <td width="25%">
-      <img src="Auto-FERnet.png" width="100%">
+      <img src="figures/Auto-FERnet.png" width="100%">
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@
       <a href="https://link.springer.com/article/10.1007/s40747-021-00393-y">Paper</a>
     </td>
     <td width="25%">
-      <img src="NLP.png" width="100%">
+      <img src="figures/NLP.png" width="100%">
     </td>
   </tr>
 </table>
