@@ -28,6 +28,20 @@
 <table border="2">
   <tr>
     <td width="75%">
+       <p><b>On the Learning Mechanisms in Physical Reasoning</b></p>
+       <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
+       <p><small><b>NeurIPS, 2022</b></small></p>
+       <a href=https://lishiqianhugh.github.io/LfID_Page>Web</a>
+    </td>
+    <td width="25%">
+      <img src="figures/LfID.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
        <p><b>Auto-FERNet: A Facial Expression Recognition Network with Architecture Search</b></p>
        <p><small><b>Shiqian Li</b>, W.Li, S.Wen, K.Shi, Y.Yang, P.Zhou, T.Huang </small></p>
        <p><small><b>IEEE Transactions on Network Science and Engineering (TNSE), 2021</b></small></p>
