@@ -87,7 +87,11 @@
 * We fine-tuned an advanced model to locate propaganda fractions and classified them in news articles, using data augmentation and semantic fusion technique.
 
 # Photography
-In my spare time, I'd like to explore the beauty around me and record them using camera. [Here](https://lishiqianhugh.github.io/Photography/) are some photos shot on the road and in my life.
+In my spare time, I'd like to explore the beauty around me and record them using my camera. [Here](https://lishiqianhugh.github.io/Photography/) are some photos shot on the road and in my life.
+* Nature
+* Animal
+* Portrait
+* Life
 
 # Contact Me
 
