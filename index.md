@@ -31,6 +31,7 @@
        <p><b>On the Learning Mechanisms in Physical Reasoning</b></p>
        <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>NeurIPS, 2022</b></small></p>
+       <a href="https://arxiv.org/abs/2210.02075">Paper</a>
        <a href="https://lishiqianhugh.github.io/LfID_Page">Web</a>
        <a href="https://github.com/lishiqianhugh/LfID">Code</a>
     </td>
