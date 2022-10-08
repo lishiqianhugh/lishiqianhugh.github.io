@@ -3,6 +3,7 @@
 **I'm now a Ph.D. candidate of *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io).**
 
 # <font color=red>News!</font> 
+* **Receive a NeurIPS 2022 Scholar Award.**
 * **One paper accepted in NeurIPS 2022.**
 * **I became an intern at [BIGAI](https://bigai.ai/).**
 
