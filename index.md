@@ -32,10 +32,10 @@
        <p><b>On the Learning Mechanisms in Physical Reasoning</b></p>
        <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>NeurIPS, 2022</b></small></p>
-       <a href="https://arxiv.org/abs/2210.02075">Paper</a>
-       <a href="https://lishiqianhugh.github.io/LfID_Page">Web</a>
-       <a href="https://github.com/lishiqianhugh/LfID">Code</a>
-       <a href="https://vimeo.com/758992548">Video</a>
+       <a href="https://arxiv.org/abs/2210.02075">[Paper]</a>
+       <a href="https://lishiqianhugh.github.io/LfID_Page">[Web]</a>
+       <a href="https://github.com/lishiqianhugh/LfID">[Code]</a>
+       <a href="https://vimeo.com/758992548">[Video]</a>
     </td>
     <td width="25%">
       <img src="figures/LfID.jpg" width="100%">
@@ -49,8 +49,8 @@
        <p><b>Auto-FERNet: A Facial Expression Recognition Network with Architecture Search</b></p>
        <p><small><b>Shiqian Li</b>, W.Li, S.Wen, K.Shi, Y.Yang, P.Zhou, T.Huang </small></p>
        <p><small><b>IEEE Transactions on Network Science and Engineering (TNSE), 2021</b></small></p>
-       <a href="https://ieeexplore.ieee.org/abstract/document/9442348">Paper</a>
-     <a href="https://github.com/lishiqianhugh/Auto-FERNet">Code</a>
+       <a href="https://ieeexplore.ieee.org/abstract/document/9442348">[Paper]</a>
+     <a href="https://github.com/lishiqianhugh/Auto-FERNet">[Code]</a>
     </td>
     <td width="25%">
       <img src="figures/Auto-FERnet.png" width="100%">
@@ -64,7 +64,7 @@
       <p><b>Span Identification and Technique Classification of Propaganda in News Articles</b></p>
       <p><small>W.Li, <b>Shiqian Li</b>, C.Liu, L.Lu, Z.Shi, S.Wen</small></p>
       <p><small><b>Complex & Intelligent Systems (Complex Intell. Syst.), 2021</b></small></p>
-      <a href="https://link.springer.com/article/10.1007/s40747-021-00393-y">Paper</a>
+      <a href="https://link.springer.com/article/10.1007/s40747-021-00393-y">[Paper]</a>
     </td>
     <td width="25%">
       <img src="figures/NLP.png" width="100%">
