@@ -35,6 +35,7 @@
        <a href="https://arxiv.org/abs/2210.02075">Paper</a>
        <a href="https://lishiqianhugh.github.io/LfID_Page">Web</a>
        <a href="https://github.com/lishiqianhugh/LfID">Code</a>
+       <a href="https://vimeo.com/758992548">Video</a>
     </td>
     <td width="25%">
       <img src="figures/LfID.jpg" width="100%">
