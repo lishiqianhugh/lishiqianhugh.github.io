@@ -90,7 +90,7 @@
 * We fine-tuned an advanced model to locate propaganda fractions and classified them in news articles, using data augmentation and semantic fusion technique. -->
 
 # Blog
-I record technical notes, research projects and life experience in my [blog](https://shiqian-blog.vercel.app/).
+I record technical notes, research projects and life experience in my [blog](https://blog-shiqian.vercel.app/).
 
 # Photography
 In my spare time, I'd like to explore the beauty around me and record them using my camera. [Here](https://lishiqianhugh.github.io/Photography/) are some photos shot on the road and in my life.
