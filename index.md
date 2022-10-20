@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-# Projects
+<!-- # Projects
 
 ### Research on adversarial perturbation on large-scale point cloud	
 #### _2020/12-2021/03_
@@ -87,7 +87,7 @@
 ### Research on propaganda detection in news articles	
 #### _2019/10-2019/12_
 * I was responsible for data preprocessing and paper writing. Rank 19th globally in SemEval 2020.
-* We fine-tuned an advanced model to locate propaganda fractions and classified them in news articles, using data augmentation and semantic fusion technique.
+* We fine-tuned an advanced model to locate propaganda fractions and classified them in news articles, using data augmentation and semantic fusion technique. -->
 
 # Blog
 I record technical notes, research projects and life experience in my [blog](https://shiqian-blog.vercel.app/).
