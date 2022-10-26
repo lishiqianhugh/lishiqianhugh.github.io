@@ -36,6 +36,7 @@
        <a href="https://lishiqianhugh.github.io/LfID_Page">[Web]</a>
        <a href="https://github.com/lishiqianhugh/LfID">[Code]</a>
        <a href="https://vimeo.com/758992548">[Video]</a>
+       <a href="https://pku.ai/publication/intuitive2022neurips/poster.pdf">[Poster]</a>
     </td>
     <td width="25%">
       <img src="figures/LfID.jpg" width="100%">
