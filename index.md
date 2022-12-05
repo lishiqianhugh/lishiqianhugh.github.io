@@ -34,8 +34,7 @@ I record technical notes, research projects and life experiences in my [blog](ht
     <td width="75%">
        <p><b>On the Learning Mechanisms in Physical Reasoning</b></p>
        <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
-       <p><small><b>NeurIPS, 2022</b></small></p>
-       <p><small><b><font color=red>Spotlight</font></b></small></p>
+       <p><small><b>NeurIPS, 2022, <font color=red>Spotlight</font> </b></small></p>
        <a href="https://arxiv.org/abs/2210.02075">[Paper]</a>
        <a href="https://lishiqianhugh.github.io/LfID_Page">[Web]</a>
        <a href="https://github.com/lishiqianhugh/LfID">[Code]</a>
