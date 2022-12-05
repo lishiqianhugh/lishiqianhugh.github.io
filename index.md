@@ -4,7 +4,7 @@
 
 # <font color=red>News!</font> 
 * **Receive a NeurIPS 2022 Scholar Award.**
-* **One paper accepted in NeurIPS 2022.**
+* **One paper accepted in NeurIPS 2022 (Spotlight).**
 * **I became an intern at [BIGAI](https://bigai.ai/).**
 
 # Interests
@@ -35,6 +35,7 @@ I record technical notes, research projects and life experiences in my [blog](ht
        <p><b>On the Learning Mechanisms in Physical Reasoning</b></p>
        <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>NeurIPS, 2022</b></small></p>
+       <p><small><b><font color=red>Spotlight</font></b></small></p>
        <a href="https://arxiv.org/abs/2210.02075">[Paper]</a>
        <a href="https://lishiqianhugh.github.io/LfID_Page">[Web]</a>
        <a href="https://github.com/lishiqianhugh/LfID">[Code]</a>
@@ -42,6 +43,10 @@ I record technical notes, research projects and life experiences in my [blog](ht
        <a href="https://pku.ai/publication/intuitive2022neurips/poster.pdf">[Poster]</a>
        <a href="https://blog-shiqian.vercel.app/article/research-4">[Blog]</a>
        <a href="https://mp.weixin.qq.com/s/rZiRji2FtMIWsu2CU1LfzQ">[北大AI院推文]</a>
+       <a href="https://www.ai.pku.edu.cn/info/1053/2405.htm">[北大AI院官网]</a>
+       <a href="https://news.pku.edu.cn/jxky/2a05ada9ad01473487404b7c48726d13.htm">[北大新闻网]</a>
+       <a href="https://mp.weixin.qq.com/s/YNh021Pl0KLnOgHc2qrH2w">[北大科研推文]</a>
+       <a href="https://mp.weixin.qq.com/s/Dh30fc2FD3HIwkHY0JbnJg">[北大新工科推文]</a>
     </td>
     <td width="25%">
       <img src="figures/LfID.jpg" width="100%">
