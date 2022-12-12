@@ -46,6 +46,7 @@ I record technical notes, research projects and life experiences in my [blog](ht
        <a href="https://news.pku.edu.cn/jxky/2a05ada9ad01473487404b7c48726d13.htm">[北大新闻网]</a>
        <a href="https://mp.weixin.qq.com/s/YNh021Pl0KLnOgHc2qrH2w">[北大科研推文]</a>
        <a href="https://mp.weixin.qq.com/s/Dh30fc2FD3HIwkHY0JbnJg">[北大新工科推文]</a>
+       <a href="https://mp.weixin.qq.com/s/cG-su_OaAYSj5yqxCukuEQ">[BIGAI]</a>
     </td>
     <td width="25%">
       <img src="figures/LfID.jpg" width="100%">
