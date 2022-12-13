@@ -18,7 +18,7 @@
 # Education
 
 ### - Ph.D in Intelligent Science and Technology
-#### _2022/-09-2027/06 (expected)_
+#### _2022/09-2027/06 (expected)_
   * **Peking University, Beijing**
 
 ### - Bachelor of Data Science and Big Data Technology
