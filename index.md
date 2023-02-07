@@ -41,6 +41,7 @@ I record technical notes, research projects and life experiences in my [blog](ht
        <a href="https://vimeo.com/758992548">[Video]</a>
        <a href="https://pku.ai/publication/intuitive2022neurips/poster.pdf">[Poster]</a>
        <a href="https://blog-shiqian.vercel.app/article/research-4">[Blog]</a>
+       <a href="https://vimeo.com/796534620">[VALSE论文速讲]</a>
        <a href="https://mp.weixin.qq.com/s/rZiRji2FtMIWsu2CU1LfzQ">[北大AI院推文]</a>
        <a href="https://www.ai.pku.edu.cn/info/1053/2405.htm">[北大AI院官网]</a>
        <a href="https://news.pku.edu.cn/jxky/2a05ada9ad01473487404b7c48726d13.htm">[北大新闻网]</a>
