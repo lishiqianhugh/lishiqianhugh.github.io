@@ -1,23 +1,24 @@
 # About Me
 
-**I'm now a Ph.D. candidate of *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io).**
+**I'm now a Ph.D. candidate at *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io).** My goal is to build human-like intelligent agents that can understand, predict, and interact with the physical world. Always ready to share ideas!
 
 # <font color=red>News!</font> 
+* **One paper accepted in ACL 2023.**
 * **Receive a NeurIPS 2022 Scholar Award.**
 * **One paper accepted in NeurIPS 2022 (Spotlight).**
-* **I became an intern at [BIGAI](https://bigai.ai/).**
+* **I won The Most Outstanding Students Award of UESTC.**
 
 # Interests
 
 **My research interests include**
 
+* **Cognitive Reasoning**: Intuitive Physics, Physical Reasoning
 * **Computer Vision**: 2D and 3D Classification, Segmentation
-* **Cognitive Reasoning**: Physical Reasoning
 * **Auto-ML**: Neural Architecture Search
 
 # Education
 
-### - Ph.D in Intelligent Science and Technology
+### - Ph.D. in Intelligent Science and Technology
 #### _2022/09-2027/06 (expected)_
   * **Peking University, Beijing**
 
@@ -26,7 +27,7 @@
   * **University of Electronic Science and Technology of China, Chengdu**
 
 # Blog
-I record technical notes, research projects and life experiences in my [blog](https://blog-shiqian.vercel.app/).
+I record technical notes, research projects, and life experiences in my [blog](https://blog-shiqian.vercel.app/). I am also running a [reading list](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) to facilitate knowledge sharing in the community of intuitive physics. Welcome to contribute!
 
 # Publications
 <table border="2">
