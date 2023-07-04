@@ -33,8 +33,25 @@ I record technical notes, research projects, and life experiences in my [blog](h
 <table border="2">
   <tr>
     <td width="75%">
+       <p><b>PersLEARN: Research Training through the Lens of Perspective Cultivation</b></p>
+       <p><small>Yuzhe Shi*, <b>Shiqian Li*</b>, Xinyi Niu*, Qiao Xu*, Jiawen Liu*, Yifan Xu*, Shiyu Gu, Bingru He, Xinyang Li, Xinyu Zhao, Zijian Zhao, Yidong Lyu, Zhen Li, Sijia Liu, Lin Qiu, Jinhao Ji, Lecheng Ruan, Yuxi Ma, Wenjuan Han, Yixin Zhu</small></p>
+       <p><small><b>ACL, 2023</b></small></p>
+       <a href="https://yzhu.io/publication/perslearn2023acl-demo/paper.pdf">[Paper]</a>
+     <a href="https://vimeo.com/841274365">[Video]</a>
+     <a href="https://yzhu.io/publication/perslearn2023acl-demo/poster.pdf">[Poster]</a>
+     <a href="https://yzhu.io/publication/perslearn2023acl-demo/supp.pdf">[Supp]</a>
+    </td>
+    <td width="25%">
+      <img src="figures/PersLEARN.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
        <p><b>On the Learning Mechanisms in Physical Reasoning</b></p>
-       <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
+       <p><small><b>Shiqian Li*</b>, Kewen Wu*, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>NeurIPS, 2022, <font color=red>Spotlight</font> </b></small></p>
        <a href="https://arxiv.org/abs/2210.02075">[Paper]</a>
        <a href="https://lishiqianhugh.github.io/LfID_Page">[Web]</a>
