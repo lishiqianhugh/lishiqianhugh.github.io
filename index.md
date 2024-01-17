@@ -3,6 +3,7 @@
 **I'm now a Ph.D. candidate at *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io). My goal is to build human-like intelligent agents that can understand, predict, and interact with the physical world. Always ready to share ideas!**
 
 # <font color=red>News!</font> 
+* **One paper accepted in ICLR 2024.**
 * **One paper accepted in ACL 2023.**
 * **Receive a NeurIPS 2022 Scholar Award.**
 * **One paper accepted in NeurIPS 2022 (Spotlight).**
@@ -30,6 +31,24 @@
 I record technical notes, research projects, and life experiences in my [blog](https://blog-shiqian.vercel.app/). I am also running a [reading list](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) to facilitate knowledge sharing in the community of intuitive physics. Welcome to contribute!
 
 # Publications
+
+<table border="2">
+  <tr>
+    <td width="75%">
+       <p><b>I-PHYRE: Interactive Physical Reasoning</b></p>
+       <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
+       <p><small><b>ICLR, 2024</b></small></p>
+       <a href="https://arxiv.org/abs/2312.03009">[Paper]</a>
+       <a href="https://lishiqianhugh.github.io/IPHYRE">[Web]</a>
+       <a href="https://github.com/lishiqianhugh/IPHYRE">[Code]</a>
+       <a href="https://vimeo.com/793260764/2f77f9d5cb">[Video]</a>
+    </td>
+    <td width="25%">
+      <img src="figures/IPHYRE.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
 <table border="2">
   <tr>
     <td width="75%">
