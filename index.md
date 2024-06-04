@@ -1,6 +1,6 @@
 # About Me
 
-**I'm now a Ph.D. candidate at *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io). My goal is to build human-like intelligent agents that can understand, predict, and interact with the physical world. Always ready to share ideas!**
+**I'm now a Ph.D. candidate at *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io). My goal is to build intelligent agents that can understand, predict, and interact with the physical world. Always ready to share ideas!**
 
 # <font color=red>News!</font> 
 * **One paper accepted in ICLR 2024.**
@@ -14,7 +14,7 @@
 **My research interests include**
 
 * **Cognitive Reasoning**: Intuitive Physics, Physical Reasoning
-* **Computer Vision**: 2D and 3D Classification, Segmentation
+* **AI for Physics**: Seismic modeling, Inverse problems
 * **Auto-ML**: Neural Architecture Search
 
 # Education
@@ -42,6 +42,8 @@ I record technical notes, research projects, and life experiences in my [blog](h
        <a href="https://lishiqianhugh.github.io/IPHYRE">[Web]</a>
        <a href="https://github.com/lishiqianhugh/IPHYRE">[Code]</a>
        <a href="https://vimeo.com/793260764/2f77f9d5cb">[Video]</a>
+       <a href="https://yzhu.io/publication/intuitive2024iclr/poster.pdf">[Poster]</a>
+       <a href="https://mp.weixin.qq.com/s/QRIgozzM4rYDfqel3Pme-Q">[北大AI院推文]</a>
     </td>
     <td width="25%">
       <img src="figures/IPHYRE.jpg" width="100%">
