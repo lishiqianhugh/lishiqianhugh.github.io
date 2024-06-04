@@ -14,7 +14,7 @@
 **My research interests include**
 
 * **Cognitive Reasoning**: Intuitive Physics, Physical Reasoning
-* **AI for Physics**: Seismic modeling, Inverse problems
+* **AI for Physics**: Seismic Modeling, Inverse Problems
 * **Auto-ML**: Neural Architecture Search
 
 # Education
