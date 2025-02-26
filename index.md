@@ -35,6 +35,42 @@ I record technical notes, research projects, and life experiences in my [blog](h
 <table border="2">
   <tr>
     <td width="75%">
+       <p><b>Neural Force Field: Learning Generalized Physical Representation from a Few Examples</b></p>
+       <p><small><b>Shiqian Li*</b>, Ruihong Shen*, Chi Zhang, Yixin Zhu </small></p>
+       <p><small><b>arxiv, 2025</b></small></p>
+       <a href="https://arxiv.org/pdf/2502.08987">[Paper]</a>
+       <a href="https://neuralforcefield.github.io/">[Web]</a>
+       <a href="https://github.com/lishiqianhugh/NeuralForceField">[Code]</a>
+       <a href="https://vimeo.com/1055247476">[Video]</a>
+       <a href="https://drive.google.com/file/d/1n5P7RiK1V7LxRJW8mvLL-QeDzHF7d75O/view">[Dataset]</a>
+    </td>
+    <td width="25%">
+      <img src="figures/nff.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
+       <p><b>GlobalTomo: A global dataset for physics-ML seismic wavefield modeling and FWI</b></p>
+       <p><small><b>Shiqian Li*</b>, Zhi Li*, Zhancun Mu, Shji Xin, Zhixiang Dai, Kuangdai Leng, Ruihua Zhang, Xiaodong Song, Yixin Zhu </small></p>
+       <p><small><b>arxiv, 2025</b></small></p>
+       <a href="https://arxiv.org/pdf/2406.18202v2">[Paper]</a>
+       <a href="https://global-tomo.github.io/">[Web]</a>
+       <a href="https://github.com/lishiqianhugh/GlobalTomo">[Code]</a>
+       <a href="https://vimeo.com/957588046">[Video]</a>
+       <a href="https://huggingface.co/datasets/lishiqianhugh/globaltomo">[Dataset]</a>
+    </td>
+    <td width="25%">
+      <img src="figures/globaltomo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
        <p><b>I-PHYRE: Interactive Physical Reasoning</b></p>
        <p><small><b>Shiqian Li</b>, Kewen Wu, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>ICLR, 2024</b></small></p>
