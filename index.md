@@ -1,3 +1,11 @@
+<style>
+.custom-content {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+</style>
+
 # About Me
 
 **I'm now a Ph.D. student at *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io). My goal is to build intelligent agents that can understand, predict, and interact with the physical world. Always ready to share ideas!**
