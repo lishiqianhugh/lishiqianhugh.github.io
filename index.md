@@ -45,7 +45,10 @@ I record technical notes, research projects, and life experiences in my [blog](h
        <a href="https://drive.google.com/file/d/1n5P7RiK1V7LxRJW8mvLL-QeDzHF7d75O/view">[Dataset]</a>
     </td>
     <td width="25%">
-      <img src="figures/nff.png" width="100%">
+      <video controls autoplay muted loop style="width: 100%; height: auto;">
+          <source src="figures/more_step_hole_1.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+      </video>
     </td>
   </tr>
 </table>
