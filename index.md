@@ -3,6 +3,7 @@
 **I'm now a Ph.D. student at *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io). My goal is to build intelligent agents that can understand, predict, and interact with the physical world. Always ready to share ideas!**
 
 # <font color=red>News!</font> 
+* **One paper accepted in CogSci 2025.**
 * **One paper accepted in ICLR 2024.**
 * **One paper accepted in ACL 2023.**
 * **Receive a NeurIPS 2022 Scholar Award.**
