@@ -77,8 +77,8 @@ I record technical notes, research projects, and life experiences in my [blog](h
     <td width="75%">
        <p><b>GlobalTomo: A Global Dataset for Physics-ML Seismic Wavefield Modeling and FWI</b></p>
        <p><small><b>Shiqian Li*</b>, Zhi Li*, Zhancun Mu, Shji Xin, Zhixiang Dai, Kuangdai Leng, Ruihua Zhang, Xiaodong Song, Yixin Zhu </small></p>
-       <p><small><b>arxiv, 2025</b></small></p>
-       <a href="https://arxiv.org/pdf/2406.18202v2">[Paper]</a>
+       <p><small><b>NeurIPS DB, 2025</b></small></p>
+       <a href="https://arxiv.org/abs/2406.18202">[Paper]</a>
        <a href="https://global-tomo.github.io/">[Web]</a>
        <a href="https://github.com/lishiqianhugh/GlobalTomo">[Code]</a>
        <a href="https://vimeo.com/957588046">[Video]</a>
