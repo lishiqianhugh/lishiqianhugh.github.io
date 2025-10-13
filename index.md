@@ -61,7 +61,7 @@ I record technical notes, research projects, and life experiences in my [blog](h
     <td width="75%">
        <p><b>Towards Physics-based Machine Learning Framework of Seismic Wavefield Modeling andfw Full-waveform Inversion</b></p>
        <p><small><b>Shiqian Li*</b>, Zhi Li*, Zhancun Mu, Shji Xin, Zhixiang Dai, Kuangdai Leng, Ruihua Zhang, Yixin Zhu, Xiaodong Song </small></p>
-       <p><small><b>AGU, 2025 <font color=red>Invited talk</font></b></small></p>
+       <p><small><b>AGU, 2025, <font color=red>Invited talk</font></b></small></p>
     </td>
     <td width="25%">
       <img src="figures/fwi.png" width="100%">
