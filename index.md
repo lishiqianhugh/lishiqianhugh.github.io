@@ -37,24 +37,6 @@ I record technical notes, research projects, and life experiences in my [blog](h
 <table border="2">
   <tr>
     <td width="75%">
-       <p><b>A Simulation-heuristics Dual-process Model for Intuitive Physics</b></p>
-       <p><small><b>Shiqian Li*</b>, Yuxi Ma*, Jiajun Yan*, Bo Dai, Yujia Peng, Chi Zhang, Yixin Zhu </small></p>
-       <p><small><b>CogSci, 2025</b></small></p>
-       <a href="https://yzhu.io/publication/intuitive2025cogsci/paper.pdf">[Paper]</a>
-       <a href="https://github.com/lishiqianhugh/DualModel">[Code]</a>
-       <a href="https://vimeo.com/1073941780">[Video]</a>
-       <a href="https://drive.google.com/file/d/1R6x_3L0DQFJ3HU0yYvjkhPGKA94tzNok/view?usp=sharing">[Dataset]</a>
-       <a href="https://yzhu.io/publication/intuitive2025cogsci/poster.pdf">[Poster]</a>
-    </td>
-    <td width="25%">
-      <img src="figures/simheu.jpg" width="100%">
-    </td>
-  </tr>
-</table>
-
-<table border="2">
-  <tr>
-    <td width="75%">
        <p><b>Neural Force Field: Learning Generalized Physical Representation from a Few Examples</b></p>
        <p><small><b>Shiqian Li*</b>, Ruihong Shen*, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>arxiv, 2025</b></small></p>
@@ -76,6 +58,19 @@ I record technical notes, research projects, and life experiences in my [blog](h
 <table border="2">
   <tr>
     <td width="75%">
+       <p><b>Towards Physics-based Machine Learning Framework of Seismic Wavefield Modeling andfw Full-waveform Inversion</b></p>
+       <p><small><b>Shiqian Li*</b>, Zhi Li*, Zhancun Mu, Shji Xin, Zhixiang Dai, Kuangdai Leng, Ruihua Zhang, Yixin Zhu, Xiaodong Song </small></p>
+       <p><small><b>AGU, 2025 <font color=red>Invited talk</font></b></small></p>
+    </td>
+    <td width="25%">
+      <img src="figures/fwi.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
        <p><b>GlobalTomo: A Global Dataset for Physics-ML Seismic Wavefield Modeling and FWI</b></p>
        <p><small><b>Shiqian Li*</b>, Zhi Li*, Zhancun Mu, Shji Xin, Zhixiang Dai, Kuangdai Leng, Ruihua Zhang, Xiaodong Song, Yixin Zhu </small></p>
        <p><small><b>NeurIPS DB, 2025</b></small></p>
@@ -87,6 +82,24 @@ I record technical notes, research projects, and life experiences in my [blog](h
     </td>
     <td width="25%">
       <img src="figures/globaltomo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table border="2">
+  <tr>
+    <td width="75%">
+       <p><b>A Simulation-heuristics Dual-process Model for Intuitive Physics</b></p>
+       <p><small><b>Shiqian Li*</b>, Yuxi Ma*, Jiajun Yan*, Bo Dai, Yujia Peng, Chi Zhang, Yixin Zhu </small></p>
+       <p><small><b>CogSci, 2025</b></small></p>
+       <a href="https://yzhu.io/publication/intuitive2025cogsci/paper.pdf">[Paper]</a>
+       <a href="https://github.com/lishiqianhugh/DualModel">[Code]</a>
+       <a href="https://vimeo.com/1073941780">[Video]</a>
+       <a href="https://drive.google.com/file/d/1R6x_3L0DQFJ3HU0yYvjkhPGKA94tzNok/view?usp=sharing">[Dataset]</a>
+       <a href="https://yzhu.io/publication/intuitive2025cogsci/poster.pdf">[Poster]</a>
+    </td>
+    <td width="25%">
+      <img src="figures/simheu.jpg" width="100%">
     </td>
   </tr>
 </table>
