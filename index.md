@@ -16,9 +16,9 @@
 
 **My research interests include**
 
-* **Cognitive Reasoning**: Intuitive Physics, Physical Reasoning
-* **AI for Physics**: Seismic Modeling, Inverse Problems
-* **Auto-ML**: Neural Architecture Search
+* **Video Generation and World Model**
+* **Physical Reasoning**
+* **AI for Physics**
 
 # Education
 
@@ -34,6 +34,26 @@
 I record technical notes, research projects, and life experiences in my [blog](https://blog-shiqian.vercel.app/). I am also running a [reading list](https://github.com/lishiqianhugh/Intuitive_Physics_Reading_List) to facilitate knowledge sharing in the community of intuitive physics. Welcome to contribute!
 
 # Publications
+
+<table border="2">
+  <tr>
+    <td width="75%">
+       <p><b>Learning Physics-Grounded 4D Dynamics with Neural Gaussian Force Fields</b></p>
+       <p><small><b>Shiqian Li*</b>, Ruihong Shen*, Junfeng Ni, Chang Pan, Chi Zhang, Yixin Zhu </small></p>
+       <p><small><b>arxiv, 2025</b></small></p>
+       <a href="">[Paper]</a>
+       <a href="https://neuralgaussianforcefield.github.io/">[Web]</a>
+       <a href="https://github.com/lishiqianhugh/NeuralGaussianForceField">[Code]</a>
+       <a href="https://player.vimeo.com/video/1126658030?h=44efd1f0f8">[Video]</a>
+    </td>
+    <td width="25%">
+      <video controls autoplay muted loop style="width: 100%; height: auto;">
+          <source src="figures/pillow_toy_soccer_can_bear_phone_83.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
 
 <table border="2">
   <tr>
