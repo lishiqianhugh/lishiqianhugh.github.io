@@ -3,6 +3,7 @@
 **I'm now a Ph.D. student at *School of Artificial Intelligence, Peking University* under the supervision of [Dr. Yixin-Zhu](https://yzhu.io). My goal is to build intelligent agents that can understand, predict, and interact with the physical world. Always ready to share ideas!**
 
 # <font color=red>News!</font> 
+* **Two papers accepted in ICLR 2026.**
 * **Invited talk in AGU 2025**
 * **One paper accepted in NeurIPS DB 2025.**
 * **One paper accepted in CogSci 2025.**
@@ -40,7 +41,7 @@ I record technical notes, research projects, and life experiences in my [blog](h
     <td width="75%">
        <p><b>Learning Physics-Grounded 4D Dynamics with Neural Gaussian Force Fields</b></p>
        <p><small><b>Shiqian Li*</b>, Ruihong Shen*, Junfeng Ni, Chang Pan, Chi Zhang, Yixin Zhu </small></p>
-       <p><small><b>arxiv, 2025</b></small></p>
+       <p><small><b>ICLR, 2026</b></small></p>
        <a href="">[Paper]</a>
        <a href="https://neuralgaussianforcefield.github.io/">[Web]</a>
        <a href="https://github.com/lishiqianhugh/NeuralGaussianForceField">[Code]</a>
@@ -60,7 +61,7 @@ I record technical notes, research projects, and life experiences in my [blog](h
     <td width="75%">
        <p><b>Neural Force Field: Learning Generalized Physical Representation from a Few Examples</b></p>
        <p><small><b>Shiqian Li*</b>, Ruihong Shen*, Chi Zhang, Yixin Zhu </small></p>
-       <p><small><b>arxiv, 2025</b></small></p>
+       <p><small><b>ICLR, 2026</b></small></p>
        <a href="https://arxiv.org/pdf/2502.08987">[Paper]</a>
        <a href="https://neuralforcefield.github.io/">[Web]</a>
        <a href="https://github.com/lishiqianhugh/NeuralForceField">[Code]</a>
