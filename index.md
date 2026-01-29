@@ -59,7 +59,7 @@ I record technical notes, research projects, and life experiences in my [blog](h
 <table border="2">
   <tr>
     <td width="75%">
-       <p><b>Neural Force Field: Learning Generalized Physical Representation from a Few Examples</b></p>
+       <p><b>Neural Force Field: Few-shot Learning of Generalized Physical Reasoning</b></p>
        <p><small><b>Shiqian Li*</b>, Ruihong Shen*, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>ICLR, 2026</b></small></p>
        <a href="https://arxiv.org/pdf/2502.08987">[Paper]</a>
