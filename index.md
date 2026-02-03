@@ -42,7 +42,7 @@ I record technical notes, research projects, and life experiences in my [blog](h
        <p><b>Learning Physics-Grounded 4D Dynamics with Neural Gaussian Force Fields</b></p>
        <p><small><b>Shiqian Li*</b>, Ruihong Shen*, Junfeng Ni, Chang Pan, Chi Zhang, Yixin Zhu </small></p>
        <p><small><b>ICLR, 2026</b></small></p>
-       <a href="">[Paper]</a>
+       <a href="https://arxiv.org/abs/2602.00148">[Paper]</a>
        <a href="https://neuralgaussianforcefield.github.io/">[Web]</a>
        <a href="https://github.com/lishiqianhugh/NeuralGaussianForceField">[Code]</a>
        <a href="https://player.vimeo.com/video/1126658030?h=44efd1f0f8">[Video]</a>
