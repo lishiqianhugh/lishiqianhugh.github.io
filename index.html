@@ -409,6 +409,28 @@
       border-bottom-color: var(--accent);
     }
 
+    #rs-content h1 {
+      display: none;
+    }
+
+    #rs-content h2 {
+      font-family: var(--font-display);
+      font-size: 1.25rem;
+      font-weight: 400;
+      margin: 1.75rem 0 0.5rem;
+      color: var(--accent);
+      letter-spacing: -0.01em;
+    }
+
+    #rs-content p {
+      margin: 0 0 0.85rem;
+      line-height: 1.7;
+    }
+
+    #rs-content strong {
+      font-weight: 600;
+    }
+
     footer {
       margin-top: 3rem;
       padding-top: 1.5rem;
@@ -437,6 +459,7 @@
       <section id="news">
         <h2 class="news-title">News!</h2>
         <ul class="clean">
+          <li><strong>I joined Tencent as a research intern.</strong></li>
           <li><strong>One paper accepted in CogSci 2026.</strong></li>
           <li><strong>Two papers accepted in ICLR 2026.</strong></li>
           <li><strong>Invited talk in AGU 2025</strong></li>
@@ -446,6 +469,7 @@
           <li><strong>One paper accepted in ACL 2023.</strong></li>
           <li><strong>Receive a NeurIPS 2022 Scholar Award.</strong></li>
           <li><strong>One paper accepted in NeurIPS 2022 (Spotlight).</strong></li>
+          <li><strong>I joined BIGAI as a research intern.</strong></li>
           <li><strong>I won The Most Outstanding Students Award of UESTC.</strong></li>
         </ul>
       </section>
@@ -694,9 +718,14 @@
         </article>
       </section>
 
+      <section id="research-statement">
+        <h2>Research Statement</h2>
+        <div id="rs-content" class="lead">Loading…</div>
+      </section>
+
       <section id="photography">
         <h2>Photography</h2>
-        <p class="lead">In my spare time, I'd like to explore the beauty around me and record them using my camera. <a href="https://lishiqianhugh.github.io/Photography/">Here</a> are some photos shot on the road and in my life.</p>
+        <p class="lead">When I'm not in the lab, I enjoy wandering with my camera and capturing the beauty I stumble upon — <a href="https://lishiqianhugh.github.io/Photography/">here</a> 's a small collection from my travels and daily life.</p>
         <ul class="clean" style="margin-top:0.75rem">
           <li>Nature</li>
           <li>Animal</li>
@@ -727,5 +756,16 @@
       <p>Shiqian Li · Personal homepage</p>
     </footer>
   </div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch('rs.md')
+      .then(r => r.text())
+      .then(md => {
+        document.getElementById('rs-content').innerHTML = marked.parse(md);
+      })
+      .catch(() => {
+        document.getElementById('rs-content').textContent = 'Failed to load research statement.';
+      });
+  </script>
 </body>
 </html>
